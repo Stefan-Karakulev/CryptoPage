@@ -37,5 +37,5 @@ const CoinContextProvider = (props) => {
         </CoinContext.Provider>
     )
 }
-
+//
 export default CoinContextProvider;
